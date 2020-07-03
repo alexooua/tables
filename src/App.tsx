@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import * as React from "react";
+import { Table, IColumn } from "./table";
+import { useMemo, useState } from "react";
+import { createData } from "./create-data";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+export default function App() {
+  const columns: IColumn[] = useMemo(
+    () => [
+      { key: "firstName", title: "First name" },
+      { key: "lastName", title: "Last name" },
+      { key: "age", title: "Age" },
+      { key: "visits", title: "Visits" },
+      { key: "status", title: "Status" },
+      { key: "tags", title: "Tags", render: (value: { join: (arg0: string) => void; }) => value.join(", ") }
+    ],
+    []
+  );
+   const [data] = useState(() => createData(50));
+   // @ts-ignore
+    return (
+    <div>
+      <h1>Test (1 lvl)</h1>
+      <h3>Description of the task in the README.md</h3>
+      <Table columns={columns} data={data}  setPageSize={()=>{}}/>
     </div>
   );
 }
-
-export default App;
