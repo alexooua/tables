@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067f9f5b-b850-43d3-a5d8-93718e6278e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/alex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1e7ldIhXiXmxpz4dVNZnoVRQ8kS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067f9f5b-b850-43d3-a5d8-93718e6278e7" name="Default Changelist" comment="" />
+      <created>1593680597258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593680597258</updated>
+      <workItem from="1593680598631" duration="1340000" />
+      <workItem from="1593681961171" duration="5986000" />
+      <workItem from="1593697743205" duration="12134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="131" width="426" height="484" key="FileChooserDialogImpl" timestamp="1593757940596">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="466" y="131" width="426" height="484" key="FileChooserDialogImpl/0.0.1366.744@0.0.1366.744" timestamp="1593757940596" />
+    <state width="1548" height="62" key="GridCell.Tab.0.bottom" timestamp="1593703223119">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1548" height="62" key="GridCell.Tab.0.bottom/0.0.1366.744@0.0.1366.744" timestamp="1593703223119" />
+    <state width="1548" height="62" key="GridCell.Tab.0.center" timestamp="1593703223118">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1548" height="62" key="GridCell.Tab.0.center/0.0.1366.744@0.0.1366.744" timestamp="1593703223118" />
+    <state width="1548" height="62" key="GridCell.Tab.0.left" timestamp="1593703223117">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1548" height="62" key="GridCell.Tab.0.left/0.0.1366.744@0.0.1366.744" timestamp="1593703223117" />
+    <state width="1548" height="62" key="GridCell.Tab.0.right" timestamp="1593703223119">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1548" height="62" key="GridCell.Tab.0.right/0.0.1366.744@0.0.1366.744" timestamp="1593703223119" />
+    <state x="260" y="2" key="SettingsEditor" timestamp="1593685803902">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="260" y="2" key="SettingsEditor/0.0.1366.744@0.0.1366.744" timestamp="1593685803902" />
+    <state x="100" y="100" width="1166" height="530" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593698697722">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="100" y="100" width="1166" height="530" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.744@0.0.1366.744" timestamp="1593698697722" />
+    <state x="99" y="99" width="1168" height="549" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1593698697723">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="99" y="99" width="1168" height="549" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.744@0.0.1366.744" timestamp="1593698697723" />
+    <state x="347" y="164" key="run.anything.popup" timestamp="1593686231329">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="347" y="164" key="run.anything.popup/0.0.1366.744@0.0.1366.744" timestamp="1593686231329" />
+  </component>
+</project>
